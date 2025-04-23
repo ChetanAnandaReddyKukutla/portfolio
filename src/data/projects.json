@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "LaviPlay - Movie App",
+    "short_desc": "LaviPlay - Movie App A dynamic movie discovery app built with React.js and Tailwind CSS, allowing users to search movies from any year and create a personalized watchlist.",
+    "stacks": ["metmuseum-api", "reactjs", "tailwindcss", "vitejs"],
+    "link": "https://movie-app-so4z.onrender.com/",
+    "card_img_src": "/projects_img/Movie.png",
+    "type": "Website",
+    "category": "projects"
+  },
+  {
+    "id": "2",
+    "title": "Tableau project",
+    "short_desc": "A Tableau project showcasing a comprehensive analysis of coffee sales data. Explore insights into sales trends, market dynamics, and product performance with visually appealing coffee-themed dashboards.",
+    "stacks": ["DataAnalytics", "Tableau ", "DataVisualization"],
+    "link": "https://public.tableau.com/app/profile/chetan.kukutla/viz/shared/98B25XW3D",
+    "card_img_src": "/projects_img/Tableau.png",
+    "type": "Website",
+    "category": "projects"
+  },
+  {
+    "id": "3",
+    "title": "Lavandula - Restaurant",
+    "short_desc": "Lavandula is a stylish and responsive restaurant website built with React, Vite, TailwindCSS, HTML, and JavaScript. Designed to reflect the elegance of the restaurant",
+    "stacks": ["react", "vite", "tailwindcss", "html", "javascript"],
+    "link": "https://lavandula.onrender.com/",
+    "card_img_src": "/projects_img/Resto.png",
+    "type": "Website",
+    "category": "projects"
+  }
+]
