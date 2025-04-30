@@ -21,7 +21,7 @@ export default function Socials() {
                 <path d="M26.37,26l-8.795-12.822l0.015,0.012L25.52,4h-2.65l-6.46,7.48L11.28,4H4.33l8.211,11.971L12.54,15.97L3.88,26h2.65 l7.182-8.322L19.42,26H26.37z M10.23,6l12.34,18h-2.1L8.12,6H10.23z" />
               </svg>
             </a>
-            <a className="group" href="https://drive.google.com/file/d/1pimvd-rkjdK72Llb8jT1XfnUOGSY0jRY/view?usp=sharing">
+            <a className="group" href="https://drive.google.com/file/d/1it2uP_Foz5hCGoWlsW_DG0WiraFYuJkP/view?usp=sharing">
               <HiOutlineDocumentDownload className="h-12 w-12 duration-100 group-hover:fill-gray-900 md:h-14 md:w-14" />
             </a>
           </div>
