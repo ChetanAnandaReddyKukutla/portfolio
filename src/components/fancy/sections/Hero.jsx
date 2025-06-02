@@ -26,19 +26,22 @@ export default function Hero() {
             animate="visible"
             variants={animationVariants}
           >
-            <Lottie
-              animationData={Magic}
-              loop
-              autoplay
-              style={{ width: "450px", height: "450px" }}
-            />
+            <div className="w-[220px] h-[220px] md:w-[450px] md:h-[450px]">
+              <Lottie
+                animationData={Magic}
+                loop
+                autoplay
+                style={{ width: "100%", height: "100%" }}
+              />
+            </div>
           </motion.div>
         </div>
         <div className="text-center text-xs md:text-start md:text-xl">
-          <h1 className="font-mono text-7xl font-extrabold md:text-8xl lg:text-9xl">
-            ᴄʜᴇᴛᴀɴ ʀᴇᴅᴅʏ
+          <h1 className="font-mono text-5xl font-extrabold md:text-8xl lg:text-8xl text-center">
+            {/* ᴄʜᴇᴛᴀɴ ʀᴇᴅᴅʏ */}
+            CHETAN REDDY
           </h1>
-          <p className="text-sm md:text-md pl-3 md:text-lg font-semibold">
+          <p className="text-sm md:text-md pl-2 text-center md:text-lg font-semibold">
             Computer Science student passionate about full-stack development,
             real-time apps, and building smooth user experiences through
             hands-on projects.
